@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 **Student** at Arizona State University 💻 **frontend developer** 💻
-**Learning**: GIT Full Stack - Agentic AI
+**Learning** GIT Full Stack - Agentic AI
 🌱 **Currently exploring**: Modern development practices and collaborative
 coding  
 📚 \*\*Course\*\*: GIT215 - Building skills in repository management and
