@@ -29,10 +29,4 @@ team-based development
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max-Aref&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Aref&layout=compact&theme=radical)
-
-## 📈 Contribution Graph
-
-![Max's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Max-Aref&theme=radical)
-
 ---
