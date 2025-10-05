@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 **Student** at Arizona State University 💻 **frontend developer** 💻
-**Learning**: Version Control with Git and software development fundamentals  
+**Learning**: GIT Full Stack - Agentic AI
 🌱 **Currently exploring**: Modern development practices and collaborative
 coding  
 📚 \*\*Course\*\*: GIT215 - Building skills in repository management and
@@ -14,7 +14,7 @@ team-based development
 - 🔧 Mastering Git workflows and GitHub best practices
 - 📖 Expanding my programming knowledge
 - 🤝 Learning collaborative development techniques
-- 🔧 Working on few saas projects lately.
+- 🔧 Working on a few saas projects lately.
 
 ## Let's Connect!
 
