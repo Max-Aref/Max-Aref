@@ -18,7 +18,21 @@ team-based development
 
 ## Let's Connect!
 
+- 🌐 **Portfolio**: [Visit my website](https://maximilian-aref.dev/)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/maxaref/)
 - 📫 Feel free to reach out for collaboration or learning opportunities
 - 🚀 Always excited to work on interesting projects and learn from the community
+
+## 📊 GitHub Stats
+
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-Aref&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max-Aref&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Aref&layout=compact&theme=radical)
+
+## 📈 Contribution Graph
+
+![Max's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Max-Aref&theme=radical)
 
 ---
